@@ -1,3 +1,6 @@
 .DS_Store
 myenv
 audio_prediction_model.pkl
+ann_model.keras
+backend/.gitignore
+backend/model/deeplearning_models
